@@ -142,3 +142,4 @@ TOTAL                     267     20    93%
 ### Запуск программы с графическим интерфейсом
 
 `./run_tk_convex.py`
+# convex_last_semester
